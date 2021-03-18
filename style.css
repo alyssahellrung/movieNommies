@@ -1,0 +1,33 @@
+body {
+  background-color: #b6bec0;
+}
+
+.jumbotron {
+  background-color: #8e8f8e;
+  padding: 50px 0px 40px 0px;
+}
+
+h1 {
+  font-family: 'Fugaz One', cursive;
+  color: #ffffff;
+}
+
+.lead {
+  color: #ffffff;
+}
+
+.card {
+  padding: 10px;
+}
+
+#search-movie-btn {
+  margin-left: 10px;
+}
+
+#nominate-btn {
+  margin-left: 20px;
+}
+
+#nominee-alert {
+  border: 0;
+}
